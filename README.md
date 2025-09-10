@@ -27,6 +27,15 @@ Modos de rolagem:
  - Transições suaves de cores em botões e toggles.
 
 
+
+
+- programa conta com a aba e ''fichas'' de rpg:
+ - cyberpunk
+ - warhammer
+ - cthullu
+ - shin megami tensei
+
+
 Requisitos
 
 Python 3.8 ou superior
