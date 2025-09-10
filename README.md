@@ -29,7 +29,7 @@ Modos de rolagem:
 
 
 
-- programa conta com a aba e ''fichas'' de rpg:
+---------- programa conta com a aba e ''fichas'' de rpg:
  - cyberpunk
  - warhammer
  - cthullu
